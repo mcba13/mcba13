@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-I'm a Web Developer in training!<br><br>I'm currently learning **HTML, CSS, JavaScript, TailwindCSS**, and building modern, responsive websites.  <br>Passionate about UI design, clean code, and improving a little more every day.<br><br>🌱 I'm currently working on:  <br>- Building my first portfolio  <br>- Improving my JavaScript skills  <br>- Learning how to create beautiful interfaces with Tailwind & DaisyUI<br><br>📫 How to reach me:  <br>Feel free to message me on GitHub or connect with me on LinkedIn!<br><br>✨ My goal: Become a full-stack web developer and create useful, modern web applications.
+I'm a Web Developer in training!<br><br>I'm currently learning **HTML, CSS, JavaScript, TailwindCSS**, and building modern, responsive websites.  <br>Passionate about UI design, clean code, and improving a little more every day.<br><br>🌱 I'm currently working on:  <br>- Building my first portfolio  <br>- Improving my JavaScript skills  <br>- Learning how to create beautiful interfaces with Tailwind & DaisyUI<br><br>📫 How to reach me:  <br>Feel free to message me on GitHub or connect with me on LinkedIn or Instagram!<br><br>✨ My goal: Become a full-stack web developer and create useful, modern web applications.
 
 
 ## 🌐 Socials:
