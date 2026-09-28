@@ -1,48 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Chris 👋</h1>
+<p align="center">
+  <b>Junior Full-Stack Web Developer</b> · career changer from payroll & HR · La Réunion 🇷🇪<br>
+  PHP / Laravel · JavaScript · SQL · Docker · accessibility-minded
+</p>
 
-## 💫 About Me:
-
-I'm an aspiring **Full-Stack Web Developer** with a passion for building modern, scalable, and accessible web applications.<br><br>
-My journey started with front-end fundamentals, and I have since expanded my skillset to include robust back-end technologies and devops practices. I specialize in creating responsive interfaces and efficient database architectures.<br><br>
-
-🚀 **What I'm currently working on:**<br>
-- Developing dynamic web applications using **JavaScript** and modern build tools like **Vite**.<br>
-- Designing and implementing **relational databases** with **SQL**.<br>
-- Containerizing applications with **Docker** for streamlined deployment.<br>
-- Crafting pixel-perfect UIs with **Tailwind CSS**.<br><br>
-
-🌱 **Continuous Learning:**<br>
-I am constantly evolving my stack, currently diving deeper into full-stack architecture, database optimization, and cloud deployment strategies.<br><br>
-
-📫 **How to reach me:**<br>
-Feel free to message me on GitHub or connect with me on [LinkedIn](https://linkedin.com/in/bassonville) and [Instagram](https://instagram.com/christine.B13)!<br><br>
-
-✨ **My Goal:**<br>
-To become a versatile Full-Stack Developer capable of architecting and deploying complete, high-performance web solutions.
-
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/christine.B13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bassonville) 
-
-# 💻 Tech Stack:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?style=plastic&logo=database&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=mcba13&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mcba13&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mcba13&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=mcba13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://linkedin.com/in/bassonville"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/mcba13/tailwindcss"><img src="https://img.shields.io/badge/Portfolio-source%20code-D946EF?logo=github&logoColor=white" alt="Portfolio source code"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mcba13&icon=6&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About me
+
+- 🎓 Training as a **Web and Mobile Web Developer** (*Titre professionnel DWWM*, level 5) at **AFPAR**, La Réunion — January to October 2026.
+- 💼 Previously a **payroll and HR specialist in Switzerland**: I bring rigour, confidentiality and a real understanding of business needs to the code I write.
+- 🏗️ Internship on a **full-stack Laravel / Filament web application** for an architecture firm.
+- 🌍 French (native) · English (C1) · Japanese (B1) · Chinese (A2).
+- 🤝 Open to **future freelance collaborations** — feel free to get in touch.
+
+## 🛠️ Tech stack
+
+**Back-end**<br>
+![PHP](https://img.shields.io/badge/PHP%208.4-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?logoColor=black)
+![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+
+**Front-end**<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript%20(basics)-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20v4-06B6D4?logo=tailwindcss&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native%20%2F%20Expo-20232A?logo=react&logoColor=61DAFB)
+
+**Tools & methods**<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![Merise](https://img.shields.io/badge/Merise-MCD%20%2F%20MLD%20%2F%20MPD-555555)
+![Pest](https://img.shields.io/badge/PHPUnit%20%2F%20Pest-tests-F28D1A)
+
+## 🚀 Selected projects
+
+| Project | What it shows | Stack |
+|---|---|---|
+| **Architecture firm web app** *(internship, private repository)* | Showcase website + back-office: project simulator, client area, document management with role-based access (Laravel Policies), relational database designed with Merise | Laravel · Livewire · Filament · MariaDB · Tailwind · Docker (Sail) |
+| **Yatta** *(personal project, in progress)* | Japanese learning app for French speakers: tab navigation, animated hiragana / katakana charts, authentication | React Native · Expo · TypeScript · Supabase |
+| **Tasks REST API** | Object-oriented PHP API following MVC: routing with FastRoute, PDO prepared statements, input validation, JSON error handling, dockerised environment | PHP 8.4 · PDO · MySQL · Composer · Docker |
+| **Address autocomplete** | Asynchronous calls to the French national geocoding API, debounce, stale-response handling, keyboard navigation and ARIA combobox | Vanilla JavaScript (ES modules) · Fetch API |
+| [**Portfolio**](https://github.com/mcba13/tailwindcss) | Responsive one-page site, dark mode, WCAG AA accessibility audit, secured dependencies | HTML · Tailwind CSS v4 · Vite |
+| [**To-Do List**](https://github.com/mcba13/ToDo-List) | Modular state / render / events architecture, XSS fix, Git flow with feature branches and pull requests | JavaScript · Tailwind CSS · Vite |
+
+## 🌱 How I work
+
+- **Security first**: prepared statements, input validation, authorisation policies, secrets kept out of Git, dependency audits.
+- **Accessibility**: semantic HTML, keyboard navigation, ARIA patterns, colour contrast checks.
+- **Clean Git history**: one branch per feature, Conventional Commits, pull requests.
+- **Method**: requirements → user stories → Merise data model → code → test cases.
+
+---
+<p align="center"><i>Thanks for visiting — feel free to reach out on <a href="https://linkedin.com/in/bassonville">LinkedIn</a>!</i></p>
